@@ -18,7 +18,7 @@ Code  | Code Description | Unlockable Type | Unlockable File Name
 648290 | Grem | Character | grem
 438329 | Acer | Character | pacer
   
-#### QR Codes `"http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=" + UnlockableID` | QRCodes.luac ####
+#### QR Codes | `"http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=" + UnlockableID` | QRCodes.luac ####
 UnlockableID  | Code Description | Unlockable Type | Unlockable File Name
 ------------- | ------------- | ------------- | -------------
 591 | Maroon | Skin | holley_1
@@ -37,12 +37,12 @@ UnlockableID  | Code Description | Unlockable Type | Unlockable File Name
 604 | Grem | Character | grem
 605 | Acer | Character | pacer
   
-### DCRCodes.luac ###
+### `DCRCodes.luac` | Not sure if used ###
 Code | Unlockable File Name
 ------------- | -------------
 2052 | mater_3
 
-### DCRCodesTRU.luac ###
+### `DCRCodesTRU.luac` | Not sure if used ###
 Code | Unlockable File Name
 ------------- | -------------
 2052 | mater_3
