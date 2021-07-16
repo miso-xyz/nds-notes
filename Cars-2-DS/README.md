@@ -47,4 +47,4 @@ Code | Unlockable File Name
 ------------- | -------------
 2052 | mater_3
 2564 | mcqueen_1, mcqueen_6, mcqueen_7, mcqueen_8 & mcqueen_9
-2820 | mcqueen_1
+2820 | mcqueen_10
