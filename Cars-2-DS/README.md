@@ -1,7 +1,13 @@
-# All Known Codes #
-### Spy Codes | `ManualQRCodes.luac` ###
+
+<details>
+<summary>All Known Codes (Spy Codes, QR Codes etc...)</summary>
+  
+***
+## Spy Codes ##
+- Source: `ManualQRCodes.luac`
+  
 Code  | Code Description | Unlockable Type | Unlockable File Name
-------------- | ------------- | ------------- | -------------
+:-------------: | :-------------: | :-------------: | :-------------:
 004532 | Maroon | Skin | holley_1
 123456 | Carbon Fiber Max | Skin | max_1
 116741 | Classic McQueen | Skin | mcqueen_2
@@ -18,9 +24,12 @@ Code  | Code Description | Unlockable Type | Unlockable File Name
 648290 | Grem | Character | grem
 438329 | Acer | Character | pacer
   
-#### QR Codes | `"http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e=" + UnlockableID` | `QRCodes.luac` ####
+## Online QR Codes ##
+- Source: `QRCodes.luac`
+- `"http://m.disney.go.com/m/car/t/page?id=1818415&pid=1818414&e="` + UnlockableID
+
 UnlockableID  | Code Description | Unlockable Type | Unlockable File Name
-------------- | ------------- | ------------- | -------------
+:-------------: | :-------------: | :-------------: | :-------------:
 591 | Maroon | Skin | holley_1
 592 | Carbon Fiber Max | Skin | max_1
 593 | Classic McQueen | Skin | mcqueen_2
@@ -36,15 +45,23 @@ UnlockableID  | Code Description | Unlockable Type | Unlockable File Name
 603 | Professor Z | Character | zundapp
 604 | Grem | Character | grem
 605 | Acer | Character | pacer
+
+## Other Codes ##
+- Source: `DCRCodes.luac`
+- Note: `Not sure if used`
   
-### `DCRCodes.luac` | Not sure if used ###
 Code | Unlockable File Name
-------------- | -------------
+:-------------: | :-------------:
 2052 | mater_3
 
-### `DCRCodesTRU.luac` | Not sure if used ###
+----
+
+- Source: `DCRCodesTRU.luac`
+- Note: `Not sure if used`
+  
 Code | Unlockable File Name
-------------- | -------------
+:-------------: | :-------------:
 2052 | mater_3
 2564 | mcqueen_1, mcqueen_6, mcqueen_7, mcqueen_8 & mcqueen_9
 2820 | mcqueen_10
+</details>
