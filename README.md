@@ -16,7 +16,7 @@
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Texas Hold'em Poker DS</a>
 
 ## Syntax Highlighting ##
-Tools Required: <a href="http://www.winhex.com/winhex/">`WinHex`</a>
+Requirements: <a href="http://www.winhex.com/winhex/">`WinHex`</a>
 ***
 Click to download `.pos` file
 - <a href="https://github.com/miso-xyz/nds-notes/raw/main/WinHex%20Syntax%20Highlighting/DDJDS%20Save%20File%20-%20WinHex%20Highlighting.pos">Doodle Jump DS Save File</a>
