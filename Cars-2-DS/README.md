@@ -1,8 +1,13 @@
-
 <details>
 <summary>All Known Codes (Spy Codes, QR Codes etc...)</summary>
-  
+
 ***
+## Tools Used ##
+Tools | Author(s)
+------------- | -------------
+<a href="http://www.winhex.com/winhex/">WinHex</a> | <a href="https://www.x-ways.net/">X-Ways</a>
+Chara.LuacRe (based on <a href="https://sourceforge.net/projects/unluac/">UnLuac</a>) | <a href="xahk://chara.xyz/git/repos/chara/Chara.LuacRe">chara.xyz</a>
+
 ## Spy Codes ##
 - Source: `ManualQRCodes.luac`
   
@@ -54,7 +59,7 @@ Code | Unlockable File Name
 :-------------: | :-------------:
 2052 | mater_3
 
-----
+***
 
 - Source: `DCRCodesTRU.luac`
 - Note: `Not sure if used`
