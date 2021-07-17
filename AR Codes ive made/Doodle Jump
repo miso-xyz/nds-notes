@@ -1,0 +1,34 @@
+Doodle Jump Cheat Codes
+
+Max Points:
+0206CFA0 7FFFFFFF
+0206CFA8 7FFFFFFF
+0206CFB0 7FFFFFFF
+027E3664 7FFFFFFF
+
+Fast Levitation (Collisions disabled):
+0205784D 0000FFFF
+
+Levitation (Collisions disabled):
+0205784D 0000FFFF
+
+Slowfall (Collisions disabled):
+0205784D 00000100
+
+Crazy Fast Levitation (Collisions disabled):
+0205784D 7FFFFFFF
+
+Infinite Shield:
+320531C5 0000007F
+32057884 0000007F
+
+Infinite Jetpack, Flying Hat & Rocket:
+320577CD 0000007F
+320577F9 0000007F
+
+(scrapped) RapidFire:
+020465F1 00000000
+020465F5 00000000
+02046ACD 00000000
+02046AD1 00000000
+0204CD89 00000000
