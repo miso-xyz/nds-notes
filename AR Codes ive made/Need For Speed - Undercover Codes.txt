@@ -1,0 +1,13 @@
+Freeze Police Cars:
+022956D8 000F423F
+022956E4 000F423F
+
+Always No Nitro:
+021AD7B8 00000000
+
+Always Max Nitro:
+021AD7B8 00000000
+
+Always Max Nitro (With GUI Problem):
+021AD7B8 00000000
+// This makes the Nitro bar extend out of its container (see https://i.imgur.com/6n3R6TP.png)
