@@ -1,5 +1,5 @@
 # nds-notes
-
+All of the content available here is original.
 ## Projects ##
 - Tools
   - <a href="https://github.com/miso-xyz/DDJDS-SFR">Doodle Jump Save File Reader</a>
@@ -12,7 +12,7 @@
 - Other
   - <a href="https://github.com/miso-xyz/TrackManiaDS-Documentation">Trackmania DS - Documentation</a>
 
-## Action Replay Codes ##
+## Custom Action Replay Codes ##
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Doodle Jump DS</a>
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Texas Hold'em Poker DS</a>
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Need%20For%20Speed%20-%20Undercover%20Codes.txt">Need For Speed - Undercover</a>
