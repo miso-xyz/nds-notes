@@ -1,0 +1,30 @@
+Always Have Max Score:
+022101C4 7FFFFFFF
+02210260 7FFFFFFF
+
+Always 0 Remaining Pokemons
+022101BC 00000000
+02210330 00000000
+
+Always 1 Remaining Pokemons
+022101BC 00000001
+02210330 00000001
+
+Disable Bonus Combos
+022101CC 00000000
+02210284 00000000
+
+Always Have Max Bonus Combo
+022101CC 7FFFFFFF
+02210284 7FFFFFFF
+
+Infinite Clear Bonus
+022103D8 7FFFFFFF
+027E382C 7FFFFFFF
+
+Infinite Prize Coins
+0210556C 7FFFFFFF
+
+// Misc Memory Addreses
+Number of entities falling: 020F7678
+Location Cleared Counter: 027E3504
