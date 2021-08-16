@@ -16,6 +16,7 @@
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Doodle Jump DS</a>
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Texas Hold'em Poker DS</a>
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Need%20For%20Speed%20-%20Undercover%20Codes.txt">Need For Speed - Undercover</a>
+- <a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Pokemon%20Link%20Codes.txt">Pokemon Link!</a>
 
 ## Syntax Highlighting ##
 Requirements: <a href="http://www.winhex.com/winhex/">`WinHex`</a>
