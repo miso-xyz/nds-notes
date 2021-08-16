@@ -1,0 +1,16 @@
+Checkpoint Counter Address [Creation Mode]: 0229F500
+                           [Racing Mode]:   0219FEF8
+
+Freeze Timer (00:00:03) & No Starting Countdown:
+021509A0 00000000
+
+Ignore Checkpoints (Not working, unsure how the game determines if the finish line trigger is active):
+02185130 00000000
+02185140 00000000
+02185150 00000000
+02185160 00000000
+022FBED8 00000000
+022FC960 00000000
+022FD2A8 00000000
+022FD458 00000000
+0229F500 00000000
