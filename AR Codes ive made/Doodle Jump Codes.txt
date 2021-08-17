@@ -6,7 +6,7 @@ Max Points:
 0206CFB0 7FFFFFFF
 027E3664 7FFFFFFF
 
-Fast Levitation (Collisions disabled):
+Levitation (Collisions disabled):
 0205784D 0000FFFF
 
 Slowfall (Collisions disabled):
