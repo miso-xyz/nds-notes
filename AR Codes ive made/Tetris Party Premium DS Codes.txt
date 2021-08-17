@@ -1,0 +1,29 @@
+Freeze Timer (00:00:00):
+0230AE64 00000000
+
+Freeze Timer (999:59:96):
+0230AE64 001B773F
+// Custom Time:
+1800 = 1 minute
+
+Always Have Max Score
+0230AF60 7FFFFFFF
+
+Always Have 0 Score
+0230AF60 00000000
+
+[Press X] Add 10 Lines (Increases Level by 1) - for some reason it loops to infinity
+94000130 FBFF0000
+D9000000 0230AF50
+D4000000 00000010
+D6000000 0230AF50
+D2000000 00000000
+
+Always Have 0 Lines Clear
+2230AF50 00000000
+
+Always Have 150 Lines Clear (Auto-Finish)
+2230AF50 00000096
+
+Always Have 9999 Lines Clear (Auto-Finish)
+2230AF50 7FFFFFFF
