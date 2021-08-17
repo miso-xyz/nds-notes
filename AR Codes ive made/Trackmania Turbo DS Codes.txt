@@ -1,0 +1,22 @@
+Checkpoint Counter Address (Stadium, Snow & Coast): 021F2244
+			   		                              (Island): 021F2374
+Timer Address (Stadium & Snow): 021EF2D8
+		                  (Island): 0226A868
+		                   (Coast): 021EF968
+
+Freeze Timer (00:00:01) & No Starting Countdown - Stadium & Snow
+021EF2D8 00000000
+Freeze Timer (00:00:01) & No Starting Countdown - Island
+0226A868 00000000
+Freeze Timer (00:00:01) & No Starting Countdown - Coast
+021EF968 00000000
+
+Freeze Timer (99:59:98) & No Starting Countdown - Stadium & Snow
+021EF2D8 10000000
+Freeze Timer (99:59:98) & No Starting Countdown - Island
+0226A868 10000000
+Freeze Timer (99:59:98) & No Starting Countdown - Coast
+021EF968 10000000
+
+Always Have Max Coppers
+0227ED6C 7FFFFFFF
