@@ -1,8 +1,11 @@
-Checkpoint Counter Address [Creation Mode]: 0229F500
-                           [Racing Mode]:   0219FEF8
+MultiLap Counter Address (All): 02151440
+                    (Creation): 0219FEF8
+                    
+      Checkpoint Counter (All): 0219FEF8
+	   Timer Address (All): 02151588
 
-Freeze Timer (00:00:03) & No Starting Countdown:
-021509A0 00000000
+Freeze Timer (00:00:01) & No Starting Countdown
+02151588 00000000
 
 Ignore Checkpoints (Not working, unsure how the game determines if the finish line trigger is active):
 02185130 00000000
