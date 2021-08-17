@@ -89,8 +89,8 @@ Number of Complete Codes: `44`</br>
     - <pre>022101CC 00000000
       02210284 00000000</pre>
   - Always Have Max Bonus Combo
-    - <pre>022101CC 00000000
-      02210284 00000000</pre>
+    - <pre>022101CC 7FFFFFFF
+      02210284 7FFFFFFF</pre>
   - Infinite Clear Bonus
     - <pre>022103D8 7FFFFFFF
       027E382C 7FFFFFFF</pre>
@@ -102,6 +102,7 @@ Number of Complete Codes: `44`</br>
 <details>
   <summary><a href="https://github.com/miso-xyz/nds-notes/edit/main/AR%20Codes%20ive%20made/Tetris%20Party%20Premium%20DS%20Codes.txt">Tetris Party Premium DS</a> (7 Codes)</summary>
   <hr>
+  
   - Freeze Timer (00:00:00)
     - <pre>0230AE64 00000000</pre>
   - Freeze Timer (999:59:96)
@@ -122,6 +123,7 @@ Number of Complete Codes: `44`</br>
 <details>
   <summary><a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Trackmania%20Turbo%20DS%20Codes.txt">Trackmania Turbo DS</a> (7 Codes)</summary>
   <hr>
+  
   - Always Have Max Coppers
     - <pre>0227ED6C 7FFFFFFF</pre>
   - Freeze Timer (00:00:01) & No Starting Countdown - Stadium & Snow
@@ -164,7 +166,7 @@ Number of Complete Codes: `44`</br>
 </details>
 
 <details>
-  <summary><a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Need%20For%20Speed%20-%20Undercover%20Codes.txt">Need For Speed - Undercover</a> (3 Codes)</summary>
+  <summary><a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Need%20For%20Speed%20-%20Undercover%20Codes.txt">Need For Speed - Undercover</a> (4 Codes)</summary>
   <hr>
   
   - Freeze Police Cars
