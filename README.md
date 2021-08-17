@@ -171,7 +171,9 @@ Number of Complete Codes: `44`</br>
     - <pre>022956D8 000F423F
       022956E4 000F423F</pre>
   - Always Have Nitro
-    - <pre>021AD7B8 00000000</pre>
+    - <pre>021AD7B8 00000064</pre>
+  - Always Have Nitro + Nitro Bar Extends Out of the bottle sprite
+    - <pre>021AD7B8 7FFFFFFF</pre>
   - Always Have No Nitro
     - <pre>021AD7B8 00000000</pre>
   <hr>
