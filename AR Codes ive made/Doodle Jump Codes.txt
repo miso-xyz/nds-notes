@@ -9,9 +9,6 @@ Max Points:
 Fast Levitation (Collisions disabled):
 0205784D 0000FFFF
 
-Levitation (Collisions disabled):
-0205784D 0000FFFF
-
 Slowfall (Collisions disabled):
 0205784D 00000100
 
