@@ -12,7 +12,7 @@ Always Have Max Score
 Always Have 0 Score
 0230AF60 00000000
 
-[Press X] Add 10 Lines (Increases Level by 1) - for some reason it loops to infinity
+[Press X] Increase Level by 1 (Adds 10 Lines) - for some reason it loops to infinity
 94000130 FBFF0000
 D9000000 0230AF50
 D4000000 00000010
