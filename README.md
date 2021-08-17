@@ -14,13 +14,15 @@ All of the content available here is original.
 
 ## Syntax Highlighting ##
 Click to download `.pos` file - Requires <a href="http://www.winhex.com/winhex/">`WinHex`</a>
+<hr>
+
 - <a href="https://github.com/miso-xyz/nds-notes/raw/main/WinHex%20Syntax%20Highlighting/DDJDS%20Save%20File%20-%20WinHex%20Highlighting.pos">Doodle Jump DS Save File</a>
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/WinHex%20Syntax%20Highlighting/THPDS%20Save%20File%20-%20WinHex%20Highlighting.pos">Texas Hold'em Poker DS Save File</a>
-
+- - - -
 ## Custom Action Replay Codes ##
 Number of Complete Codes: `44`</br>
 ***More Information can be found in the files, such as scrapped codes & indexed Memory Addresses***
-<hr>
+- - - -
 <details>
   <summary><a href="https://github.com/miso-xyz/nds-notes/blob/main/AR%20Codes%20ive%20made/Doodle%20Jump%20Codes.txt">Texas Hold'em Poker DS</a> (12 Codes)</summary>
   <hr>
@@ -195,3 +197,5 @@ Number of Complete Codes: `44`</br>
     - <pre>02151588 00000000</pre>
   <hr>
 </details>
+
+- - - -
