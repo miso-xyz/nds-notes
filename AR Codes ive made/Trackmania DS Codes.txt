@@ -1,8 +1,8 @@
 MultiLap Counter Address (All): 02151440
                     (Creation): 0219FEF8
-                    
-      Checkpoint Counter (All): 0219FEF8
-	   Timer Address (All): 02151588
+
+Checkpoint Counter (All): 0219FEF8
+Timer Address (All): 02151588
 
 Freeze Timer (00:00:01) & No Starting Countdown
 02151588 00000000
