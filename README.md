@@ -20,7 +20,7 @@ Click to download `.pos` file - Requires <a href="http://www.winhex.com/winhex/"
 - <a href="https://github.com/miso-xyz/nds-notes/blob/main/WinHex%20Syntax%20Highlighting/THPDS%20Save%20File%20-%20WinHex%20Highlighting.pos">Texas Hold'em Poker DS Save File</a>
 - - - -
 ## Custom Action Replay Codes ##
-Number of Complete Codes: `44`</br>
+Number of Complete Codes: `45`</br>
 ***More Information can be found in the files, such as scrapped codes & indexed Memory Addresses***
 - - - -
 <details>
